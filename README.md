@@ -19,11 +19,11 @@ I am currently focused on building dApps in the fintech space, such as decentral
 ## Let's Connect 🌐
 
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/salma-mohammed-290718218/))
-- 
+  
 
 ## GitHub Stats 📊
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamoh905&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamoh905&show_icons=true&theme=synthwave)
 
 ---
 
