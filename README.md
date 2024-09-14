@@ -27,15 +27,7 @@ I am currently focused on building dApps in the fintech space, such as decentral
 
 ---
 
-## Improving My GitHub Page ✨
-
-- **Profile Picture:** Add a professional or creative picture.
-- **Bio:** Keep the bio short but impactful, e.g., "Blockchain Developer | Fintech Enthusiast | Smart Contract Dev."
-- **Pin Important Repositories:** Pin your top blockchain/fintech projects to showcase your best work.
-- **Detailed READMEs:** Write detailed descriptions, installation instructions, and usage guides for all your repositories.
-- **GitHub Trophies:** Add a trophy section to show your contributions and achievements:
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=salmamoh905)
 
-- **Organize Repos:** Group repositories by categories like "Blockchain," "Fintech," "Smart Contracts," etc.
-- **Custom GitHub Page:** Use **GitHub Pages** to create a portfolio showcasing your projects more professionally.
+
