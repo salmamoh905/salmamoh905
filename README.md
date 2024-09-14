@@ -8,7 +8,7 @@ I’m a passionate blockchain developer with a background in Web2 and extensive 
 
 - **Blockchain:** Solidity, Ethereum, Hyperledger, Layer 2 Solutions
 - **Web3 Development:** Truffle, Hardhat, Web3.js, Ethers.js
-- **Languages:** JavaScript, Python, TypeScript
+- **Languages:** JavaScript, TypeScript
 - **Web2 Skills:** React.js, Node.js, RESTful APIs
 - **Databases:** PostgreSQL, MongoDB
 
@@ -28,6 +28,6 @@ I am currently focused on building dApps in the fintech space, such as decentral
 ---
 
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=salmamoh905)
+
 
 
